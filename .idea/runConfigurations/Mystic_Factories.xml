@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Mystic Factories" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="dev.turtywurty.mysticfactories.Main" />
+    <module name="mystic-factories.main" />
+    <option name="VM_PARAMETERS" value="-javaagent:libs/lwjglx-debug-1.0.0.jar" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
